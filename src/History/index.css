@@ -1,0 +1,65 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-bar {
+  background-color: #3367d6;
+  margin-top: 0px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  align-items: center;
+}
+
+.app-logo {
+  height: 30px;
+}
+
+.search-container {
+  width: 50px;
+  height: 30px;
+  background-color: #2850a7;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #6697ff;
+}
+.search {
+  width: 20px;
+  height: 20px;
+  margin-left: 12px;
+  margin-top: 6px;
+}
+
+.inputElement {
+  width: 100%;
+  height: 30px;
+  background-color: #2850a7;
+  color: #ececec;
+  margin-left: 5px;
+  border-color: #6697ff;
+  font-size: 12px;
+  border-width: 1px;
+  outline: none;
+  padding-left: 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 500px;
+  margin: 350px;
+}
+
+/* second half */
+
+.container {
+  padding: 40px;
+}
+
+.inner-container {
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
