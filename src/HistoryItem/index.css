@@ -32,3 +32,9 @@
   font-weight: 600;
   font-family: 'Roboto';
 }
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
